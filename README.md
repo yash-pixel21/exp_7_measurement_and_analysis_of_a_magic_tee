@@ -67,7 +67,8 @@ A magic tee is normally characterised by two quantities:
 
 ## Observation (Measurement of isolation between E and H arms)
 
-*(Include your own table relevant to the experiment.)*
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0021b7f-162a-4224-9536-47eac34e95d2" />
+
 
 ## Precautions
 
@@ -76,5 +77,4 @@ A magic tee is normally characterised by two quantities:
 * Take the observations carefully.
 
 ## Conclusion
-
-*(Write your own.)*
+The Magic Tee was studied successfully and its working principle was understood. It combines the properties of E-plane and H-plane tees and provides isolation between the two input arms. The experiment demonstrates the use of Magic Tee as a microwave power divider/combiner and for signal isolation and impedance matching in microwave systems.
